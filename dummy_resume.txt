@@ -1,0 +1,1 @@
+Ishan is a Senior Full Stack Engineer with 4 years of experience. Expert in TypeScript, Node.js, and React. Built a traffic analysis tool using Python and AWS Lambda that processed 1M+ events daily. Experience with LangChain for building chat agents. previous role: Tech Lead at StartupX.
