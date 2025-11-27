@@ -1,4 +1,4 @@
-# CareerOps Agent 🚀
+# CareerOps Agent
 
 A powerful AI agent that helps you apply for jobs by scraping job descriptions, analyzing your resume, and generating tailored cover letters.
 
